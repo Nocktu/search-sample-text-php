@@ -14,9 +14,7 @@ Each sample text is stored in a text file.
 
 <b>Output:</b> "wherefore" 
 
-Explanation: The letter "e" is repeated three times in the word "wherefore"--
-
-and this is more than any other letter is repeated in any other word! 
+Explanation: The letter "e" is repeated three times in the word "wherefore" and this is more than any other letter is repeated in any other word! 
 
 <h2>Example B: </h2>
 
@@ -24,6 +22,4 @@ and this is more than any other letter is repeated in any other word!
 
 <bOutput:</b> "people" 
 
-Explanation: Both "people" and "feel" have a letter that is repeated twice 
-
-within the word. This is a tie-- and the first word wins!
+Explanation: Both "people" and "feel" have a letter that is repeated twice within the word. This is a tie-- and the first word wins!
