@@ -1,24 +1,12 @@
-In some English words, a letter appears more than once. Search through a 
-
-sample of text to find the word with a letter that is repeated more times than 
-
-any other letter is repeated in any other word. If there is a tie between two 
+In some English words, a letter appears more than once. Search through a sample of text to find the word with a letter that is repeated more times than any other letter is repeated in any other word. If there is a tie between two 
 
 words, then choose the first word in the text sample. 
 
-The text sample will contain only the alphabetic characters ("a" through "z" and 
+The text sample will contain only the alphabetic characters ("a" through "z" and "A" through "Z"), spaces, and punctuation marks. A letter is considered to be the same letter regardless of whether it appears in uppercase or lowercase. 
 
-"A" through "Z"), spaces, and punctuation marks. A letter is considered to be 
+The words will be separated by spaces, and any punctuation marks should be disregarded. 
 
-the same letter regardless of whether it appears in uppercase or lowercase. 
-
-The words will be separated by spaces, and any punctuation marks should be 
-
-disregarded. 
-
-Write a function that accepts the string path to a sample text file as its 
-
-argument, and returns the correct word from the sample text as its output. 
+A function that accepts the string path to a sample text file as its argument, and returns the correct word from the sample text as its output. 
 
 Each sample text is stored in a text file. 
 
@@ -36,7 +24,7 @@ and this is more than any other letter is repeated in any other word!
 
 <b>Input:</b> "Some people feel the rain, while others just get wet." 
 
-<b>Output:</b> "people" 
+<bOutput:</b> "people" 
 
 Explanation: Both "people" and "feel" have a letter that is repeated twice 
 
