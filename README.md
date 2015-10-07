@@ -1,6 +1,4 @@
-In some English words, a letter appears more than once. Search through a sample of text to find the word with a letter that is repeated more times than any other letter is repeated in any other word. If there is a tie between two 
-
-words, then choose the first word in the text sample. 
+In some English words, a letter appears more than once. Search through a sample of text to find the word with a letter that is repeated more times than any other letter is repeated in any other word. If there is a tie between two words, then choose the first word in the text sample. 
 
 The text sample will contain only the alphabetic characters ("a" through "z" and "A" through "Z"), spaces, and punctuation marks. A letter is considered to be the same letter regardless of whether it appears in uppercase or lowercase. 
 
