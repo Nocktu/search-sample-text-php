@@ -20,6 +20,6 @@ Explanation: The letter "e" is repeated three times in the word "wherefore" and 
 
 <b>Input:</b> "Some people feel the rain, while others just get wet." 
 
-<bOutput:</b> "people" 
+<b>Output:</b> "people" 
 
 Explanation: Both "people" and "feel" have a letter that is repeated twice within the word. This is a tie-- and the first word wins!
